@@ -1,0 +1,11 @@
+gitignore
+env
+*.pyc
+staticfiles
+.env
+*.sqlite3
+webpack-stats.*
+media
+.vscode
+node_modules
+venv
